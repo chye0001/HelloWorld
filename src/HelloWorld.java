@@ -16,5 +16,6 @@ public class HelloWorld {
         System.out.println(LocalDateTime.now());
 
         System.out.println("Hello GitHub");
+        System.out.println("Second attempt at commit and push");
     }
 }
