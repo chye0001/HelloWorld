@@ -17,5 +17,6 @@ public class HelloWorld {
 
         System.out.println("Hello GitHub");
         System.out.println("Second attempt at commit and push");
+        System.out.println("Haha der er conflict");
     }
 }
