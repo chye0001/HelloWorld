@@ -14,5 +14,7 @@ public class HelloWorld {
 
         System.out.println(LocalDateTime.now());
         System.out.println(LocalDateTime.now());
+
+        System.out.println("Hello GitHub");
     }
 }
